@@ -1,4 +1,7 @@
 # Flask-RESTful Example 
+
+## 值得参考的Flask项目架构
+
 #### 安装依赖包
 ```
 python install -r requirements.txt
